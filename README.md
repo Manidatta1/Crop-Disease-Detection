@@ -4,6 +4,7 @@ The combination of Deep learning and recent advances in computer vision has pave
 Neural networks provide a mapping between an input such as an image of a diseased plant to an output such as a crop disease pair. 
 To develop such a precise image classifier aimed at diagnosis of diseases of plant, we need a large, processed and verified dataset containing various diseased and healthy plant images.
 
+![My Profile](Crop.png)
 
 # Crop Disease Detection Model
 
